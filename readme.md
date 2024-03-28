@@ -1,11 +1,11 @@
 # Background
-# Genie is a recently released machine learning model by Google that aim to generate playable (action-controllable) worlds. But when I typed in 'Genie' in google, I found it's quite difficult to locate its homepage in the google search result page. In fact, it ranked 25th place, and its arxiv page ranked 42nd place. 
+### Genie is a recently released machine learning model by Google that aim to generate playable (action-controllable) worlds. But when I typed in 'Genie' in google, I found it's quite difficult to locate its homepage in the google search result page. In fact, it ranked 25th place, and its arxiv page ranked 42nd place. 
 
-There are several reasons.
+# reasons for low ranking
 
-  The first reason is quite straightforward. 'Genis', as a fictional character originally debut in a Disney animation movie, is an extermly popular name. Not only Google likes this name, but also various business and product favored this name, such as garage door, lift equipment and AI chat bot. </br>
-  Secondly, the model is still gaining its awareness at the early stage. It takes time for both the model to gain awareness and google search query to put more weight on the site.</br>
-  Lastly, there's SEO opportunity for the sit. So far(3/28/2024) I didn't see the Genie world model added to the wikipedia Genie_(disambiguation) page yet. I believe the Genie team haven't done any SEO to boost their popularity yet, and they don't need or don't want to.</br>
+  1. The first reason is quite straightforward. 'Genis', as a fictional character originally debut in a Disney animation movie, is an extermly popular name. Not only Google likes this name, but also various business and product favors this name, such as garage door, lift equipment and AI chat bot. </br>
+  2. The model is still gaining its awareness at the early stage. It takes time for both the model to gain awareness and google search query to put more weight on the site.</br>
+  3. There's SEO opportunity for the sit. So far(3/28/2024) I didn't see the Genie world model added to the wikipedia Genie_(disambiguation) page yet. I believe the Genie team haven't done any SEO to boost their popularity yet, and they don't need or don't want to.</br>
 
 I've tried a few other keywords shown as below.Genie google site and its arxiv site only can get top rank in closely related keywords.
 
