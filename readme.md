@@ -6,9 +6,9 @@ There are several reasons.
   
   Secondly, the model is still gaining its awareness at the early stage. It takes time for both the model to gain awareness and google search query to put more weight on the site.
   
-  Lastly, there's SEO opportunity for the sit. So far(3/28/2024) I didn't see the Genie world model added to the wikipedia Genie_(disambiguation) page yet. I believe the Genie team haven't done any SEO to boost their popularity yet, and they don't need to.
+  Lastly, there's SEO opportunity for the sit. So far(3/28/2024) I didn't see the Genie world model added to the wikipedia Genie_(disambiguation) page yet. I believe the Genie team haven't done any SEO to boost their popularity yet, and they don't need or don't want to.
 
-I've tried a few other keywords shown as below.Genie google site and its arxiv site only can get top rank in closely related keywords
+I've tried a few other keywords shown as below.Genie google site and its arxiv site only can get top rank in closely related keywords.
 
 # Google Search Page Rank
 | keyword                | https://sites.google.com/view/genie-2024/ | https://arxiv.org/abs/2402.15391 | https://arxiv.org/html/2402.15391v1 | top rank |
@@ -25,4 +25,4 @@ I've tried a few other keywords shown as below.Genie google site and its arxiv s
 | Genie World Model      | 2                                         | 1                                | 15                                  | 1        |
 
 
-I'm very much looking forward for Genie's update and hope that I can find its site on the top search results in future by just typing Genie.
+I'm very much looking forward for Genie's update and hope that I can find its site on the top results in future by just typing Genie.
